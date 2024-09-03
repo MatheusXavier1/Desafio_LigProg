@@ -1,4 +1,4 @@
-Projeto criado para a disciplina de Linguagem e Programação 2024.2 feito pelos alunos: Daniel Gudin, Dionysio Rangel, Gilson Batista, Pedro Henrique de Oliveira e Matheus Xavier
+Projeto criado para a disciplina de Linguagem e Programação 2024.2 feito pelos alunos: Daniel Gudin(124048398), Dionysio Rangel(124243184), Gilson Batista(124160815), Pedro Henrique de Oliveira(124137359) e Matheus Xavier(124039399)
 
 Atividade:
 Desafio de Programação: "Banco de Dados de Produtos"
